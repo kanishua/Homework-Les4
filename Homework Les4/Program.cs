@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 
 namespace Homework_Les4
 {
@@ -6,7 +6,7 @@ namespace Homework_Les4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
